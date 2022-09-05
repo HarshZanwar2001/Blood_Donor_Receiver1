@@ -1,0 +1,2 @@
+# Blood_Donor_Receiver Android app
+This application is to help people who are suffering with their health and needy for blood. Some time the situation of a person who is looking for blood is so critical that he or any of his family member face difficulty to find blood or blood donor. The concept behind this application is to meet blood donor and blood receiver without any third person . The donor can directly donate the blood to the needy patient. This way we can fulfill need of the patient and satisfaction for blood donor.
